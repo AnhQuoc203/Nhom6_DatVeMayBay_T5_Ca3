@@ -17,8 +17,13 @@ IV/ Công nghệ sử dụng
 
 V/ Thông tin thành viên
 
-Nguyễn Hoàng Đăng 
+Nguyễn Hoàng Đăng - 21dh
 
-Nguyễn Đình Chiến
+Nguyễn Đình Chiến - 21dh
 
+ ![image](https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/147131092/f5e4a3eb-0f6f-4d38-a73d-ffe9e3251adc)
+ 
+ Lê Danh - 21dh
+
+ Anh Quốc - 21hd
 
