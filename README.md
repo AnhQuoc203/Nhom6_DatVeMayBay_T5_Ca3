@@ -12,7 +12,8 @@ Ngoài ra, ứng dụng còn có phân quyền để đảm bảo sự ổn đ�
 
 ## *II/ Các chức năng đã có*
 
-- Xem thông tin tài khoản 
+- Xem thông tin tài khoản
+- f
 
 ## *IV/ Công nghệ sử dụng
 firebase*
