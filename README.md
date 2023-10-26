@@ -11,14 +11,15 @@ Sử dụng For-Your Flight, khách hàng sẽ được trải nghiệm các tí
 Ngoài ra, ứng dụng còn có phân quyền để đảm bảo sự ổn định và nhất quán cho việc quản lý các hoạt động kinh doanh như: số lượng vé đã đặt, đã hủy, quản lý khách hàng, quản lý chuyến bay,...
 
 ## *II/ Các chức năng đã có*
-
+- Đăng ký
+- Đăng nhập
+- - Quản lý hãng bay hợp tác
+## *III/ Các chức năng chưa có
 - Xem thông tin tài khoản
 - Xem trang chủ
 - Xem chi tiết vé
 - Xem list chuyến bay
-- Đăng ký
 - Xem thông tin chuyến bay
-- Đăng nhập
 - Đặt vé
 - Thanh toán 
 - Thay đổi thông tin cá nhân
@@ -33,12 +34,8 @@ Ngoài ra, ứng dụng còn có phân quyền để đảm bảo sự ổn đ�
 - Quản lý đặt vé
 - Đăng nhập
 - Đổi mật khẩu
-- Quản lý hãng bay hợp tác
 - Sửa thông tin chuyến bay
 - Thêm chuyến bay
-
-## *III/ Các chức năng chưa có
-
 ## *IV/ Công nghệ sử dụng
 firebase
 android studio
