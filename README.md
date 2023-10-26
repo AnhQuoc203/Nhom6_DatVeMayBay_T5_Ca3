@@ -24,7 +24,7 @@ firebase*
 
 | :—– | :———- | :————– |
 
-| 1 | |  | ![image](https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/147131092/f5e4a3eb-0f6f-4d38-a73d-ffe9e3251adc) | | | | |
+| 1 | |  |  | | | | |
 
 | 2 | |  | ChienNDC |  | | |  | 
 
