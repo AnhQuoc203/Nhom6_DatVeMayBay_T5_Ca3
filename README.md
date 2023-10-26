@@ -13,7 +13,31 @@ Ngoài ra, ứng dụng còn có phân quyền để đảm bảo sự ổn đ�
 ## *II/ Các chức năng đã có*
 
 - Xem thông tin tài khoản
-- f
+- Xem trang chủ
+- Xem chi tiết vé
+- Xem list chuyến bay
+- Đăng ký
+- Xem thông tin chuyến bay
+- Đăng nhập
+- Đặt vé
+- Thanh toán 
+- Thay đổi thông tin cá nhân
+- Đổi mật khẩu
+- Xem lịch sử Đặt vé
+- Xem thông tin tài khoản
+- Tìm kiếm chuyến bay
+- Hủy đặt vé
+- Sửa thông tin tài khoản người dùng
+- Xóa chuyến bay
+- Xem trang chủ
+- Quản lý đặt vé
+- Đăng nhập
+- Đổi mật khẩu
+- Quản lý hãng bay hợp tác
+- Sửa thông tin chuyến bay
+- Thêm chuyến bay
+
+## *III/ Các chức năng chưa có
 
 ## *IV/ Công nghệ sử dụng
 firebase*
