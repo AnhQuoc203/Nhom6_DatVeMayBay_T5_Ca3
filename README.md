@@ -40,8 +40,8 @@ Ngoài ra, ứng dụng còn có phân quyền để đảm bảo sự ổn đ�
 ## *III/ Các chức năng chưa có
 
 ## *IV/ Công nghệ sử dụng
-firebase*
-
+firebase
+android studio
 ## *V/ Thông tin thành viên*
 
 | STT | Nguyễn Hoàng Đăng  | Nguyễn Đình Chiến  | Lê Nguyễn Hoàng Danh |  Nguyễn Anh Quốc 
