@@ -47,7 +47,7 @@ android
 studio
 ## *VI/ Phương hướng phát triển*
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/HoangTran0410/SmartPhone_Store_Manage_Java/blob/master/screenshots/login.png"><img src="/HoangTran0410/SmartPhone_Store_Manage_Java/raw/master/screenshots/login.png" alt="Login" style="max-width: 100%;"></a>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/HoangTran0410/SmartPhone_Store_Manage_Java/blob/master/screenshots/login.png"><img src="[/HoangTran0410/SmartPhone_Store_Manage_Java/raw/master/screenshots/login.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdienthoaivui.com.vn%2Fdien-thoai%2Fasus-rog-phone-8-ultimate&psig=AOvVaw3UGcNIrJoWMGijdCsJnT3U&ust=1698994136117000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCo9MHcpIIDFQAAAAAdAAAAABAE)" alt="Login" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="/HoangTran0410/SmartPhone_Store_Manage_Java/blob/master/screenshots/main.png"><img src="/HoangTran0410/SmartPhone_Store_Manage_Java/raw/master/screenshots/main.png" alt="Main" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="/HoangTran0410/SmartPhone_Store_Manage_Java/blob/master/screenshots/products.png"><img src="/HoangTran0410/SmartPhone_Store_Manage_Java/raw/master/screenshots/products.png" alt="Products" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="/HoangTran0410/SmartPhone_Store_Manage_Java/blob/master/screenshots/sell.png"><img src="/HoangTran0410/SmartPhone_Store_Manage_Java/raw/master/screenshots/sell.png" alt="Sell" style="max-width: 100%;"></a>
