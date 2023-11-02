@@ -43,7 +43,8 @@ Ngoài ra, ứng dụng còn có phân quyền để đảm bảo sự ổn đ�
 - Thêm chuyến bay
 ## *V/ Công nghệ sử dụng
 firebase
-android studio
+android
+studio
 ## *VI/ Phương hướng phát triển*
 
 
