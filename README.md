@@ -52,7 +52,7 @@ studio
       <a
         target="_blank"
         rel="noopener noreferrer"
-        href="/HoangTran0410/SmartPhone_Store_Manage_Java/blob/master/screenshots/login.png"
+        href="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/147131092/72b418fe-49a1-4736-b4d5-914f7581e92c"
         ><img
           src="/HoangTran0410/SmartPhone_Store_Manage_Java/raw/master/screenshots/login.png"
           alt="Login"
