@@ -46,6 +46,13 @@ Ngoài ra, ứng dụng còn có phân quyền để đảm bảo sự ổn đ�
 - Firebase
 - Android Studio
 ## *VI/ Phương hướng phát triển*
+ <p dir="auto">
+        <a target="_blank" rel="noopener noreferrer"
+            href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.24h.com.vn%2Fthoi-trang-hi-tech%2Fnhung-hinh-anh-iphone-14-chat-luong-nhat-xuat-hien-c407a1355263.html&psig=AOvVaw0VXdHLfMpYXNTgGLucuePv&ust=1698998248317000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLDRoOrrpIIDFQAAAAAdAAAAABAF">
+            <img src="https://github.com/duong97/WebBanHang_PHP_Thuan/raw/master/screenshots/homepage.JPG"
+                style="max-width: 100%;">
+        </a>
+    </p>
 
    
 
