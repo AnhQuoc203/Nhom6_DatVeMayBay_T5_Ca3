@@ -47,6 +47,8 @@ Ngoài ra, ứng dụng còn có phân quyền để đảm bảo sự ổn đ�
 - Android Studio
 ## *VI/ Phương hướng phát triển*
 
+    ![image](https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/147131092/d20770b8-97b2-4a6d-8c82-a0c21c16d0ec)
+
 
 
 
