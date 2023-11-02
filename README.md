@@ -12,14 +12,14 @@ Sử dụng For-Your Flight, khách hàng sẽ được trải nghiệm các tí
 Ngoài ra, ứng dụng còn có phân quyền để đảm bảo sự ổn định và nhất quán cho việc quản lý các hoạt động kinh doanh như: số lượng vé đã đặt, đã hủy, quản lý khách hàng, quản lý chuyến bay,...
 
 ## *II/ Thông tin thành viên*
- Nguyễn Hoàng Đăng  
- Nguyễn Đình Chiến  
- Lê Nguyễn Hoàng Danh 
- Nguyễn Anh Quốc 
+ -Nguyễn Hoàng Đăng  
+ -Nguyễn Đình Chiến  
+ -Lê Nguyễn Hoàng Danh 
+ -Nguyễn Anh Quốc 
 ## *III/ Các chức năng đã có*
 - Đăng ký
 - Đăng nhập
-- - Quản lý hãng bay hợp tác
+- Quản lý hãng bay hợp tác
 ## *IV/ Các chức năng chưa có
 - Xem thông tin tài khoản
 - Xem trang chủ
