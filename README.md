@@ -10,11 +10,16 @@ Sử dụng For-Your Flight, khách hàng sẽ được trải nghiệm các tí
 
 Ngoài ra, ứng dụng còn có phân quyền để đảm bảo sự ổn định và nhất quán cho việc quản lý các hoạt động kinh doanh như: số lượng vé đã đặt, đã hủy, quản lý khách hàng, quản lý chuyến bay,...
 
-## *II/ Các chức năng đã có*
+## *II/ Thông tin thành viên*
+ Nguyễn Hoàng Đăng  
+ Nguyễn Đình Chiến  
+ Lê Nguyễn Hoàng Danh 
+ Nguyễn Anh Quốc 
+## *III/ Các chức năng đã có*
 - Đăng ký
 - Đăng nhập
 - - Quản lý hãng bay hợp tác
-## *III/ Các chức năng chưa có
+## *IV/ Các chức năng chưa có
 - Xem thông tin tài khoản
 - Xem trang chủ
 - Xem chi tiết vé
@@ -36,18 +41,13 @@ Ngoài ra, ứng dụng còn có phân quyền để đảm bảo sự ổn đ�
 - Đổi mật khẩu
 - Sửa thông tin chuyến bay
 - Thêm chuyến bay
-## *IV/ Công nghệ sử dụng
+## *V/ Công nghệ sử dụng
 firebase
 android studio
-## *V/ Thông tin thành viên*
+## *VI/ Phương hướng phát triển*
 
-| STT | Nguyễn Hoàng Đăng  | Nguyễn Đình Chiến  | Lê Nguyễn Hoàng Danh |  Nguyễn Anh Quốc 
 
-| :—– | :———- | :————– |
 
-| 1 | |  |  | | | | |
-
-| 2 | |  | ChienNDC |  | | |  | 
 
 
 
