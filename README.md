@@ -33,14 +33,17 @@ Ngoài ra, ứng dụng còn có phân quyền để đảm bảo sự ổn đ�
 - Tìm kiếm chuyến bay
 - Hủy đặt vé
 - Quản lý đặt vé
-## *V/ Công nghệ sử dụng
+## *V/ Một số hình ảnh chức năng của ứng dụng
+- Đăng nhập dành cho người dùng và tài khoản admin
+<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/118030966/b1fcd433-a064-4a97-b892-a985be047245" alt="dangnhap" width="300" />
+
+## *VI/ Công nghệ sử dụng
 - Firebase
 - Android Studio
-## *VI/ Phương hướng phát triển*
+## *VII/ Phương hướng phát triển*
 - Nâng cấp tính năng bảo mật cho ứng dụng như: FaceID, TouchID,....
 - Phát triển thêm nhiều tính năng nổi bật của 1 ứng dụng đặt vé bắt buộc phải có, chẳng hạn như so sánh vé máy bay với nhiều hãng bay khác.
 - Thiết kế giao diện đẹp mắt, chuyển động mượt mà hơn.
-
 
 
 
