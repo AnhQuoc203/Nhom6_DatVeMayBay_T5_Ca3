@@ -43,9 +43,9 @@ Ngoài ra, ứng dụng còn có phân quyền để đảm bảo sự ổn đ�
 - Sửa thông tin chuyến bay
 - Thêm chuyến bay
 ## *V/ Công nghệ sử dụng
-firebase
-android
-studio
+- firebase
+- android
+- studio
 ## *VI/ Phương hướng phát triển*
 
 
