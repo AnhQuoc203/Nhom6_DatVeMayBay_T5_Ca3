@@ -13,9 +13,9 @@ Ngoài ra, ứng dụng còn có phân quyền để đảm bảo sự ổn đ�
 
 ## *II/ Thông tin thành viên*
  Nguyễn Hoàng Đăng  
- Nguyễn Đình Chiến  
- Lê Nguyễn Hoàng Danh
+ Nguyễn Đình Chiến
  Nguyễn Anh Quốc 
+ Lê Nguyễn Hoàng Danh
 ## *III/ Các chức năng đã có*
 - Đăng ký
 - Đăng nhập
