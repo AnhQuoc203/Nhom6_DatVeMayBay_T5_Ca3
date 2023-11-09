@@ -36,21 +36,14 @@ Ngoài ra, ứng dụng còn có phân quyền để đảm bảo sự ổn đ�
 ## *V/ Một số hình ảnh chức năng của ứng dụng
 - Đăng nhập dành cho người dùng và tài khoản admin
 <img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/118030966/b1fcd433-a064-4a97-b892-a985be047245" alt="dangnhap" width="300" />
-
 ## *VI/ Công nghệ sử dụng
-- Firebase
-- Android Studio
+|Firebase|Android Studio|
+|--------|--------------|
+|<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/118030966/8bcab2fe-c5fb-41db-a416-f27b1008b5ae" alt="hinh1" width="200" />|<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/118030966/5ae8a48e-3eb2-43f9-a5f3-82697f40ec72" alt="hinh1" width="200" />|
 ## *VII/ Phương hướng phát triển*
 - Nâng cấp tính năng bảo mật cho ứng dụng như: FaceID, TouchID,....
 - Phát triển thêm nhiều tính năng nổi bật của 1 ứng dụng đặt vé bắt buộc phải có, chẳng hạn như so sánh vé máy bay với nhiều hãng bay khác.
 - Thiết kế giao diện đẹp mắt, chuyển động mượt mà hơn.
-
-
-
-|Firebase|Android Studio|
-|--------|--------------|
-|<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/118030966/8bcab2fe-c5fb-41db-a416-f27b1008b5ae" alt="hinh1" width="200" />|<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/118030966/5ae8a48e-3eb2-43f9-a5f3-82697f40ec72" alt="hinh1" width="200" />|
-
 
 
 
