@@ -36,6 +36,7 @@ Ngoài ra, ứng dụng còn có phân quyền để đảm bảo sự ổn đ�
 ## *V/ Một số hình ảnh chức năng của ứng dụng
 - Đăng nhập dành cho người dùng và tài khoản admin
 <img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/118030966/b1fcd433-a064-4a97-b892-a985be047245" alt="dangnhap" width="300" />
+
 ## *VI/ Công nghệ sử dụng
 |Firebase|Android Studio|
 |--------|--------------|
