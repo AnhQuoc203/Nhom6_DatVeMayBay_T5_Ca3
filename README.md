@@ -20,6 +20,7 @@ Ngoài ra, ứng dụng còn có phân quyền để đảm bảo sự ổn đ�
 - Quản lý chuyến bay
 - Đổi mật khẩu
 - Cập nhật thông tin cá nhân
+- Đổi mật khẩu
 - Xem trang chủ
 ## *IV/ Các chức năng chưa có
 - Xem chi tiết vé
@@ -27,7 +28,6 @@ Ngoài ra, ứng dụng còn có phân quyền để đảm bảo sự ổn đ�
 - Xem thông tin chuyến bay
 - Đặt vé
 - Thanh toán 
-- Đổi mật khẩu
 - Xem lịch sử Đặt vé
 - Xem thông tin tài khoản
 - Tìm kiếm chuyến bay
