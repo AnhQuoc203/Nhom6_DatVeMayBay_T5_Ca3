@@ -22,20 +22,35 @@ Ngoài ra, ứng dụng còn có phân quyền để đảm bảo sự ổn đ�
 - Cập nhật thông tin cá nhân
 - Đổi mật khẩu
 - Xem trang chủ
-## *IV/ Các chức năng chưa có
+- Xem thông tin tài khoản
 - Xem chi tiết vé
 - Xem list chuyến bay
 - Xem thông tin chuyến bay
 - Đặt vé
 - Thanh toán 
 - Xem lịch sử Đặt vé
-- Xem thông tin tài khoản
 - Tìm kiếm chuyến bay
+## IV/ Các chức năng chưa có
 - Hủy đặt vé
 - Quản lý đặt vé
-## *V/ Một số hình ảnh chức năng của ứng dụng
-- Đăng nhập dành cho người dùng và tài khoản admin
-<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/118030966/b1fcd433-a064-4a97-b892-a985be047245" alt="dangnhap" width="300" />
+## V/ Các chức năng của ứng dụng
+| Đăng nhập cho người dùng và admin|Đăng ký tài khoản cho người dùng|Quên mật khẩu|
+|:--------------------------------:|:------------------------------:|:-----------:|
+|<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/118030966/7ea39d25-3302-48af-acd9-a95c8fba3ee2" alt="dangnhap" width="300" />|<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/118030966/6444041d-2135-4bcc-ae89-40bb75aa7652" alt="dangky" width="300" />|<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/118030966/5c53c561-3356-4d37-9799-cd2681d54544" alt="quenmatkhau" width="300" />|
+
+### Chức năng cơ bản của admin 
+|Hiển thị trang chủ admin|Thêm hãng bay|Sửa hãng bay|
+|:----------------------:|:-----------:|:----------:|
+|<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/118030966/69b7b215-f9ac-4399-8aaa-c64136428da6" alt="trangchuadmin" width="300" />|<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/118030966/fe7f6867-4117-4fe0-9da8-decf6bdfef72" alt="themhangbay" width="300" />|<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/118030966/a13c4b33-c243-444c-aa0f-0758d76a7301" alt="suahangbay" width="300" />|
+
+|Thêm chuyến bay|Sửa chuyến bay|
+|:-------------:|:------------:|
+|<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/118030966/22a50c74-7f26-4291-beb3-6315035b3f93" alt="themchuyenbay" width="300" />|<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/118030966/9a856c3a-efcc-4811-97f3-27eddf836136" alt="suachuyenbay" width="300" />|
+
+### Chức năng cơ bản của người dùng 
+|Hiển thị trang chủ người dùng|Cập nhật thông tin cá nhân|Xem lịch sử đặt vé|
+|:---------------------------:|:------------------------:|:----------------:|
+|<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/118030966/230ab7d8-8d03-4f3a-b39e-bbbba6633205" alt="trangchu" width="300" />|<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/118030966/42b61a09-3c49-432b-adad-2ff8989268ce" alt="capnhat" width="300" />|
 
 ## *VI/ Công nghệ sử dụng
 |Firebase|Android Studio|
