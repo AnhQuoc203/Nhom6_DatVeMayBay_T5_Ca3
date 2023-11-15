@@ -33,21 +33,25 @@ Ngoài ra, ứng dụng còn có phân quyền để đảm bảo sự ổn đ�
 ## IV/ Các chức năng của ứng dụng
 | Đăng nhập cho người dùng và admin|Đăng ký tài khoản cho người dùng|Quên mật khẩu|
 |:--------------------------------:|:------------------------------:|:-----------:|
-|<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/118030966/7ea39d25-3302-48af-acd9-a95c8fba3ee2" alt="dangnhap" width="300" />|<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/118030966/6444041d-2135-4bcc-ae89-40bb75aa7652" alt="dangky" width="300" />|<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/118030966/5c53c561-3356-4d37-9799-cd2681d54544" alt="quenmatkhau" width="300" />|
+|<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/139346999/5e882018-32ef-42ac-a66b-c240c5a0e098" alt="dangnhap" width="300" />|<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/139346999/7008a1f7-1dc2-4e30-a0ec-175b012cd209" alt="dangky" width="300" />|<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/139346999/37662f2f-d2c0-4bb1-bc02-143ff60f67c0" alt="quenmatkhau" width="300" />|
 
 ### Chức năng cơ bản của admin 
 |Hiển thị trang chủ admin|Thêm hãng bay|Sửa hãng bay|
 |:----------------------:|:-----------:|:----------:|
-|<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/118030966/69b7b215-f9ac-4399-8aaa-c64136428da6" alt="trangchuadmin" width="300" />|<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/118030966/fe7f6867-4117-4fe0-9da8-decf6bdfef72" alt="themhangbay" width="300" />|<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/118030966/a13c4b33-c243-444c-aa0f-0758d76a7301" alt="suahangbay" width="300" />|
+|<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/139346999/5599e818-ccab-44a3-b3c9-66d446f3f94c" alt="trangchuadmin" width="300" />|<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/139346999/ea4e2a7d-defe-4c76-bb9b-9150beb3c35b" alt="themhangbay" width="300" />|<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/139346999/ea7eeac0-2957-4d90-9df4-fb575bbe1089" alt="suahangbay" width="300" />|
 
-|Thêm chuyến bay|Sửa chuyến bay|
-|:-------------:|:------------:|
-|<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/118030966/22a50c74-7f26-4291-beb3-6315035b3f93" alt="themchuyenbay" width="300" />|<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/118030966/9a856c3a-efcc-4811-97f3-27eddf836136" alt="suachuyenbay" width="300" />|
+|Thêm chuyến bay|Sửa chuyến bay|Quản lý vé bay|
+|:-------------:|:------------:|:------------:|
+|<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/139346999/039ecea7-343c-41a1-907b-f2a3bfa8889e" alt="themchuyenbay" width="300" />|<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/139346999/cd0c48e9-2489-4a32-8ce9-bc5fa8a5d8c3" alt="suachuyenbay" width="300" />|<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/139346999/ca21d1aa-7058-4c00-a514-c5a00d10a921" alt="quanlyvebay" width="300" />|
 
 ### Chức năng cơ bản của người dùng 
 |Hiển thị trang chủ người dùng|Cập nhật thông tin cá nhân|Xem lịch sử đặt vé|
 |:---------------------------:|:------------------------:|:----------------:|
-|<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/118030966/230ab7d8-8d03-4f3a-b39e-bbbba6633205" alt="trangchu" width="300" />|<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/118030966/42b61a09-3c49-432b-adad-2ff8989268ce" alt="capnhat" width="300" />|
+|<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/139346999/e1b3f02d-d48f-487f-9192-69413ba90335" alt="trangchu" width="300" />|<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/139346999/8ba7fad3-ddc0-4284-8248-4447bf5e0108" alt="capnhat" width="300" />|<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/139346999/10df452d-cf49-459c-9ccd-d0e8c157d826" alt="lichsudatve" width="300" />|
+
+|Trang tài khoản|Chi tiết chuyến bay|Thanh toán|
+|:-------------:|:-----------------:|:--------:|
+|<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/139346999/974f9f1b-9844-4490-8722-5b519ad5c299" alt="taikhoan" width="300" />|<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/139346999/be51a021-88d5-4269-93c2-e72f6ae99d9e" alt="chitiet" width="300" />|<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/139346999/a73ee734-617c-46e1-85fb-d95ba0f311d5" alt="thanhtoan" width="300" />|
 
 ## *V/ Công nghệ sử dụng
 |Firebase|Android Studio|
