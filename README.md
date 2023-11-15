@@ -20,20 +20,17 @@ Ngoài ra, ứng dụng còn có phân quyền để đảm bảo sự ổn đ�
 - Quản lý chuyến bay
 - Đổi mật khẩu
 - Cập nhật thông tin cá nhân
-- Đổi mật khẩu
 - Xem trang chủ
 - Xem thông tin tài khoản
 - Xem chi tiết vé
-- Xem list chuyến bay
 - Xem thông tin chuyến bay
 - Đặt vé
 - Thanh toán 
-- Xem lịch sử Đặt vé
+- Xem lịch sử đặt vé
 - Tìm kiếm chuyến bay
-## IV/ Các chức năng chưa có
 - Hủy đặt vé
 - Quản lý đặt vé
-## V/ Các chức năng của ứng dụng
+## IV/ Các chức năng của ứng dụng
 | Đăng nhập cho người dùng và admin|Đăng ký tài khoản cho người dùng|Quên mật khẩu|
 |:--------------------------------:|:------------------------------:|:-----------:|
 |<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/118030966/7ea39d25-3302-48af-acd9-a95c8fba3ee2" alt="dangnhap" width="300" />|<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/118030966/6444041d-2135-4bcc-ae89-40bb75aa7652" alt="dangky" width="300" />|<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/118030966/5c53c561-3356-4d37-9799-cd2681d54544" alt="quenmatkhau" width="300" />|
@@ -52,11 +49,11 @@ Ngoài ra, ứng dụng còn có phân quyền để đảm bảo sự ổn đ�
 |:---------------------------:|:------------------------:|:----------------:|
 |<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/118030966/230ab7d8-8d03-4f3a-b39e-bbbba6633205" alt="trangchu" width="300" />|<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/118030966/42b61a09-3c49-432b-adad-2ff8989268ce" alt="capnhat" width="300" />|
 
-## *VI/ Công nghệ sử dụng
+## *V/ Công nghệ sử dụng
 |Firebase|Android Studio|
 |--------|--------------|
 |<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/118030966/681ab020-45b3-4017-b0f4-051793b69ad0" alt="hinh1" width="200" />|<img src="https://github.com/AnhQuoc203/Nhom6_DatVeMayBay_T5_Ca3/assets/118030966/5ae8a48e-3eb2-43f9-a5f3-82697f40ec72" alt="hinh1" width="200" />|
-## *VII/ Phương hướng phát triển*
+## *VI/ Phương hướng phát triển*
 - Nâng cấp tính năng bảo mật cho ứng dụng như: FaceID, TouchID,....
 - Phát triển thêm nhiều tính năng nổi bật của 1 ứng dụng đặt vé bắt buộc phải có, chẳng hạn như so sánh vé máy bay với nhiều hãng bay khác.
 - Thiết kế giao diện đẹp mắt, chuyển động mượt mà hơn.
